@@ -68,6 +68,8 @@ function init() {
     var form=document.forms[0];
 
     form.addEventListener('input',function(e){
+    	e.stopPropagation();
+
     	this.firstName.value = formatProperNoun(this.firstName.value);
     	this.lastName.value = formatProperNoun(this.lastName.value);
     	this.status.value = formatProperNoun(this.status.value);
