@@ -5,13 +5,85 @@ Mock Data
  */
 
 var peopleData = [{
-    firstName: 'John',
-    lastName: 'Doe',
-    status: 'Denied'
+  "firstName": "Jennifer",
+  "lastName": "Olson",
+  "status": "Approved"
 }, {
-    firstName: 'John',
-    lastName: 'Doe',
-    status: 'Approved'
+  "firstName": "Catherine",
+  "lastName": "Graham",
+  "status": "Approved"
+}, {
+  "firstName": "Margaret",
+  "lastName": "Hughes",
+  "status": "Approved"
+}, {
+  "firstName": "Keith",
+  "lastName": "Franklin",
+  "status": "Pending"
+}, {
+  "firstName": "Susan",
+  "lastName": "Jackson",
+  "status": "Approved"
+}, {
+  "firstName": "Justin",
+  "lastName": "Austin",
+  "status": "Approved"
+}, {
+  "firstName": "Paula",
+  "lastName": "Kim",
+  "status": "Denied"
+}, {
+  "firstName": "Martin",
+  "lastName": "Franklin",
+  "status": "Denied"
+}, {
+  "firstName": "Johnny",
+  "lastName": "Porter",
+  "status": "Pending"
+}, {
+  "firstName": "Tammy",
+  "lastName": "Medina",
+  "status": "Denied"
+}, {
+  "firstName": "Brian",
+  "lastName": "Lane",
+  "status": "Denied"
+}, {
+  "firstName": "Clarence",
+  "lastName": "Palmer",
+  "status": "Approved"
+}, {
+  "firstName": "Howard",
+  "lastName": "Stanley",
+  "status": "Approved"
+}, {
+  "firstName": "Diane",
+  "lastName": "Flores",
+  "status": "Approved"
+}, {
+  "firstName": "Deborah",
+  "lastName": "Fields",
+  "status": "Denied"
+}, {
+  "firstName": "Sarah",
+  "lastName": "Meyer",
+  "status": "Approved"
+}, {
+  "firstName": "Ruth",
+  "lastName": "Jordan",
+  "status": "Approved"
+}, {
+  "firstName": "Michael",
+  "lastName": "Lawrence",
+  "status": "Denied"
+}, {
+  "firstName": "Anna",
+  "lastName": "Burton",
+  "status": "Denied"
+}, {
+  "firstName": "Bobby",
+  "lastName": "Evans",
+  "status": "Denied"
 }];
 
 /*

@@ -25,3 +25,8 @@ Please list any open source JavaScript libraries used in this solution.
  - Just the basics.
  - Sending JSON, receiving text or JSON response.
  - The save part of this test is just pseudo and I don't need to open up a connection to a server to test the route.
+
+ #Installation
+
+- git clone https://github.com/JohnPittman/orgsync-interview-test-sortandsave.git
+- open ~/src/index.html

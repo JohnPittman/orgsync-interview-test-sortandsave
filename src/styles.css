@@ -1,0 +1,70 @@
+html,
+body {
+    display: table;
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    width: 100%;
+    text-align: center;
+}
+
+.content {
+    display: table-cell;
+    text-align: center;
+}
+
+.content-center{
+    margin: 0 auto;
+    width: 340px;
+}
+
+input[type='text'] {
+    display: block;
+    font-family: "Arial";
+    border-bottom-color: red;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    width: 340px;
+    min-height: 40px;
+    font-size: 40px;
+}
+
+input[type='text']:focus {
+    outline: none;
+}
+
+table{
+    margin-top: 15px;
+    min-width: 340px;
+    text-align: left;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+th{
+    font-family: "Arial";
+    font-size: 40px;
+    color:#AAAAAA;
+    text-align: center;
+    border-right: solid;
+    border-width: 1px;
+    border-color: #AAAAAA;
+}
+th:last-child{
+    border-right: none;
+}
+
+td{
+    font-family: "Arial";
+    font-weight: bold;
+    margin:0px;
+    padding: 4px;
+    border-right: solid;
+    border-top: solid;
+    border-width: 1px;
+    border-color: #AAAAAA;
+}
+td:last-child{
+    border-right: none;
+}
